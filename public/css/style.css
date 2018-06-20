@@ -7,7 +7,6 @@ body {
 footer {
     margin-top: 40px;
 }
-
 /* navbar */
 .navbar {
     background-color: #fff;
@@ -16,7 +15,6 @@ footer {
     margin-top: 5px;
     height: 40px;
 }
-
 /* cover */
 .cover {
     margin-top: -20px;
@@ -47,11 +45,9 @@ footer {
     background-color: #ed486f;
     border-color: #ed486f;
 }
-
 .search {
     margin-bottom: 20px;
 }
-
 /* item */
 .item .panel-body {
     height: 70px;

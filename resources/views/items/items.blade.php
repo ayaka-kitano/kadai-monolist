@@ -19,6 +19,7 @@
                                     @include('items.want_button', ['item' => $item])
                                     @include('items.have_button', ['item' => $item])
                                 @endif
+                            </div>
                         </div>
                     </div>
                     @if (isset($item->count))
